@@ -52,7 +52,7 @@ body {
 	}
 	.name {
 		text-align: center;
-		font-size: 2.8em;
+		font-size: 3.5em;
 		color: gainsboro;
 		margin-top: 15%;
 		margin-bottom: auto;
@@ -127,7 +127,7 @@ body {
 		padding-left: 4px;
 		text-align: center;
 		font-size: 2.5em;
-		color: gainsboro;
+		color: rgb(39, 28, 28);
 		margin-top: 16%;
 		margin-bottom: auto;
 		text-transform: capitalize;
@@ -276,15 +276,15 @@ body {
 		text-align: center;
 		margin-right: 0px;
 		margin-left: 0px;
-		color: darkgray;
+		color: rgb(180, 102, 102);
 		margin-bottom: 40px;
 	}
 	.location {
 		text-align: center;
-		color: white;
+		color: rgb(45, 177, 217);
 		font-size: 1.8em;
 		display: block;
-		background-color: rgba(175,133,255,1);
+		background-color: rgb(73, 24, 163);
 		padding: 10px;
 		margin-left: 7%;
 		margin-right: 7%;
@@ -296,6 +296,6 @@ body {
 /*---------- Responsive Grid Ends ---------------*/
 footer {
 	text-align: center;
-	color: white;
+	color: rgb(20, 45, 207);
 	font-size: 1.2em
 }
